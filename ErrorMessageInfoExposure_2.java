@@ -42,4 +42,5 @@ public class SqlInjectionLesson6b extends AssignmentEndpoint {
   }
 
   private String tmp = "1";
+  private String tmp2 = "2";
 }
